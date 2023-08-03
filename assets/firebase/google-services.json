@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758971820132",
+    "project_id": "ibd-japan",
+    "storage_bucket": "ibd-japan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758971820132:android:95124e5cec0a703ecf1771",
+        "android_client_info": {
+          "package_name": "myapp.ibdjapan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758971820132-clnijk4qh5t30928psdh0vpt6v1e3ldv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrC9pAwwLwFkXITRlxOL-Iu43fqAbTg7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758971820132-clnijk4qh5t30928psdh0vpt6v1e3ldv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
